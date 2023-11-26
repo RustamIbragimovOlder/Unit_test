@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="auto-service-annotations-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libTest/auto-service-annotations-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/byte-buddy-1.14.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/byte-buddy-agent-1.14.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/checker-qual-3.33.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/error_prone_annotations-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/failsafe-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/guava-32.1.2-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/j2objc-annotations-2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/junit-jupiter-api-5.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/junit-jupiter-params-5.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/junit-platform-commons-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/mockito-core-5.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/objenesis-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/opentelemetry-api-1.28.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/opentelemetry-api-events-1.28.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/opentelemetry-context-1.28.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/opentelemetry-exporter-logging-1.28.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/opentelemetry-extension-incubator-1.28.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/opentelemetry-sdk-1.28.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/opentelemetry-sdk-common-1.28.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/opentelemetry-sdk-logs-1.28.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/opentelemetry-sdk-metrics-1.28.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/opentelemetry-sdk-trace-1.28.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/opentelemetry-semconv-1.28.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-api-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-chrome-driver-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-chromium-driver-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-devtools-v85-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-devtools-v117-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-devtools-v118-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-devtools-v119-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-edge-driver-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-firefox-driver-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-http-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-ie-driver-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-java-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-json-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-manager-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-os-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-remote-driver-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-safari-driver-4.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-support-4.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-api-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-chrome-driver-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-chromium-driver-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-devtools-v85-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-devtools-v117-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-devtools-v118-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-devtools-v119-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-edge-driver-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-firefox-driver-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-http-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-ie-driver-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-json-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-manager-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-os-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-remote-driver-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-safari-driver-4.15.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libTest/selenium-support-4.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
