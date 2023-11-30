@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <option name="scopesOrder">
+      <list>
+        <option value="All Changed Files" />
+        <option value="Open Files" />
+        <option value="Production" />
+        <option value="Project Files" />
+        <option value="Scratches and Consoles" />
+        <option value="Tests" />
+      </list>
+    </option>
+    <inspection_tool class="CheckStyle" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+      <scope name="Open Files" level="TEXT ATTRIBUTES" enabled="true" editorAttributes="CONSIDERATION_ATTRIBUTES" />
+      <scope name="Production" level="WARNING" enabled="true" />
+      <scope name="Project Files" level="WARNING" enabled="true" />
+      <scope name="Scratches and Consoles" level="WARNING" enabled="true" />
+      <scope name="Tests" level="WARNING" enabled="true" />
+    </inspection_tool>
+  </profile>
+</component>
